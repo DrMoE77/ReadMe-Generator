@@ -28,5 +28,4 @@
   
 
   ## Contact
-  My GitHub: (https://github.com/drmoe77) <br>
-  Email me at: [drmo.afifi@gmail.com]
+ 
