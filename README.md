@@ -16,7 +16,7 @@
   This project uses the node modules, specifically the Inquirer module which can be installed using 'npm install inquirer'. 
 
   ## Usage
-  Once a user has completed the code and has created a GitHub repo, this command line application helps in creating a README file easily. Sometimes, users would forget to add some important information required for a README file, but this application takes care of that.
+  
 
   ## License
   [![License used: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
