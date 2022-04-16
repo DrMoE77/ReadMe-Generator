@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "static-site",
   "version": "1.0.0",
@@ -12,3 +13,19 @@
     "inquirer": "^8.2.0"
   }
 }
+=======
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
+>>>>>>> b60289d6b66ce9c78ed3b0243438aefac97344ae
